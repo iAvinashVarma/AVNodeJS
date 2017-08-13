@@ -1,0 +1,2 @@
+require('./avinash');
+require('./pruthvi');
