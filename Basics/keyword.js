@@ -1,4 +1,5 @@
 var avi = {
+    name: "India",
     printFirstName:function(){
         console.log("My name is Avinash.");
         console.log(this === avi);
@@ -22,3 +23,4 @@ function doGlobalCall(){
 avi.printFirstName();
 doExplicitCall();
 doGlobalCall();
+console.log(avi.name);

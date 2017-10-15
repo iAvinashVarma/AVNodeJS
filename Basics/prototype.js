@@ -37,3 +37,5 @@ console.log("Jitendra points : " + Jittu.points);
 Player.prototype.magic = 60;
 console.log("Avinash magic points : " + Avi.magic);
 console.log("Jitendra magic points : " + Jittu.magic);
+
+var Aslam = new Player();
